@@ -12,11 +12,11 @@ const TotalCost = ({ totalCosts, ItemsDisplay }) => {
         </div>
         <div>
           <h2 id="pre_fee_cost_display" className="price">
-           
+           ${totalCosts?.total ?? 0}
           </h2>
          
             <div>
-             
+             {ItemsDisplay ? <ItemsDisplay /> : null}
             </div>
         </div>
       </div>
