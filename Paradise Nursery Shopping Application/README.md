@@ -2,6 +2,8 @@
 
 A modern React-based e-commerce application for a plant nursery, built with Redux for state management and featuring a beautiful, responsive UI.
 
+> **Standalone Project**: This is a complete, self-contained React application ready for deployment.
+
 ## ✨ Features
 
 - **Plant Catalog**: Browse plants by categories (Air Purifying, Aromatic, Insect Repellent, Medicinal, Low Maintenance)
